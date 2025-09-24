@@ -1,4 +1,4 @@
-# 🦆 duckBot
+# ![Logo du projet](/image/logo.png) duckBot
 Un modèle de bot Discord introductif écrit en Python.
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
