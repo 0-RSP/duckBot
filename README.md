@@ -1,4 +1,4 @@
-# ![Logo du projet](/images/logo.png) duckBot
+# duckBot
 Un modèle de bot Discord introductif écrit en Python.
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
@@ -6,7 +6,7 @@ Un modèle de bot Discord introductif écrit en Python.
 ![Étoiles](https://img.shields.io/github/stars/0-RSP/duckBot?style=social)
 ![Forks](https://img.shields.io/github/forks/0-RSP/duckBot?style=social)
 
-![Image de prévisualisation de duckBot](/images/console_exec_duckBot.webp)
+<img src="/images/logo.png" alt="Logo du projet" width="150" />
 
 ## ✨ Fonctionnalités
 `duckBot` est conçu pour être un point de départ simple et extensible pour le développement de bots Discord en Python.
@@ -68,6 +68,9 @@ Pour démarrer le bot, exécutez simplement le fichier `main.py` :
 python main.py
 ```
 Le bot devrait maintenant être en ligne sur votre serveur Discord.
+
+![Image de prévisualisation de duckBot](/images/console_exec_duckBot.webp)
+
 
 ## 🗺️ Feuille de route du projet
 `duckBot` est un modèle introductif, et il existe de nombreuses possibilités passionnantes pour son développement futur :
