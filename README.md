@@ -5,6 +5,7 @@ Un modèle de bot Discord introductif écrit en Python.
 
 <p align="center">
   <img src="/images/logo.png" alt="Logo du projet" width="150" />
+  
   <a href="https://github.com/0-RSP/duckBot">
     <img src="https://img.shields.io/badge/version-1.0.0-blue" alt="Version" />
     <img src="https://img.shields.io/badge/licence-Apache%20License%202.0-green" alt="Licence" />
