@@ -49,9 +49,9 @@ Assurez-vous d'avoir installé les éléments suivants :
    ```
 
 5. **Configuration :**
-   Créez un fichier `config.py` dans le répertoire racine (ou utilisez des variables d'environnement) pour stocker le token de votre bot et d'autres informations sensibles.
-   ```python
-   # config.py
+   Créez un fichier `.env` dans le répertoire racine (ou utilisez des variables d'environnement) pour stocker le token de votre bot et d'autres informations sensibles.
+   ```env
+   # .env
    DISCORD_TOKEN = "VOTRE_TOKEN_DE_BOT_DISCORD_ICI"
    # Ajoutez ici d'autres variables de configuration
    ```
