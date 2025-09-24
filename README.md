@@ -1,8 +1,3 @@
-# duckBot
-Un modèle de bot Discord introductif écrit en Python.
-
-
-
 <p align="center">
   <img src="/images/logo.png" alt="Logo du projet" width="150" />
   <br>
@@ -13,6 +8,10 @@ Un modèle de bot Discord introductif écrit en Python.
     <img src="https://img.shields.io/github/forks/0-RSP/duckBot?style=social" alt="Forks" />
   </a>
 </p>
+
+# duckBot
+Un modèle de bot Discord introductif écrit en Python.
+
 
 ## ✨ Fonctionnalités
 `duckBot` est conçu pour être un point de départ simple et extensible pour le développement de bots Discord en Python.
