@@ -1,9 +1,11 @@
 # 🦆 duckBot
 Un modèle de bot Discord introductif écrit en Python.
+
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
 ![Licence](https://img.shields.io/badge/licence-Apache%20License%202.0-green)
 ![Étoiles](https://img.shields.io/github/stars/0-RSP/duckBot?style=social)
 ![Forks](https://img.shields.io/github/forks/0-RSP/duckBot?style=social)
+
 ![Image de prévisualisation de duckBot](/images/console_exec_duckBot.webp)
 
 ## ✨ Fonctionnalités
